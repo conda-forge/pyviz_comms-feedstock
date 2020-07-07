@@ -5,7 +5,7 @@ Home: https://www.pyviz.org
 
 Package license: BSD 3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Bidirectional communication for PyViz
 
