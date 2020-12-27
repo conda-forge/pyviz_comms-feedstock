@@ -5,11 +5,9 @@ Home: https://www.pyviz.org
 
 Package license: BSD 3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyviz_comms-feedstock/blob/master/LICENSE.txt)
 
 Summary: Bidirectional communication for PyViz
-
-
 
 Current build status
 ====================
