@@ -1,7 +1,7 @@
 About pyviz_comms
 =================
 
-Home: https://www.pyviz.org
+Home: https://www.holoviz.org
 
 Package license: BSD 3-Clause
 
