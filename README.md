@@ -3,7 +3,7 @@ About pyviz_comms
 
 Home: https://www.holoviz.org
 
-Package license: BSD 3-Clause
+Package license: BSD-3-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyviz_comms-feedstock/blob/master/LICENSE.txt)
 
