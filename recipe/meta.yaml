@@ -9,20 +9,20 @@ source:
   sha256: a26145b8ce43d2d934b3c6826d77b913ce105c528eb2e494c890b3e3525ddf33
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
   host:
-    - python >=2.7
+    - python >=3.6
     - param
     - pip
     - jupyter-packaging
     - jupyterlab
     - notebook
   run:
-    - python >=2.7
+    - python >=3.6
     - param
 
 test:
