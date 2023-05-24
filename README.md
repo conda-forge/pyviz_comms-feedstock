@@ -1,11 +1,11 @@
-About pyviz_comms
-=================
+About pyviz_comms-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyviz_comms-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.holoviz.org
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyviz_comms-feedstock/blob/main/LICENSE.txt)
 
 Summary: Bidirectional communication for PyViz
 
@@ -144,5 +144,6 @@ Feedstock Maintainers
 =====================
 
 * [@jlstevens](https://github.com/jlstevens/)
+* [@maximlt](https://github.com/maximlt/)
 * [@philippjfr](https://github.com/philippjfr/)
 
