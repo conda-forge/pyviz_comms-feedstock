@@ -22,6 +22,7 @@ requirements:
     - jupyterlab >=4.0,<5
     - notebook
     - hatchling
+    - hatch-nodejs-version
   run:
     - python >=3.6
     - param
