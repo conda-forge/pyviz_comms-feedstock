@@ -1,4 +1,4 @@
-{% set version = "3.0.1" %}
+{% set version = "3.0.2" %}
 
 package:
   name: pyviz_comms
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/p/pyviz_comms/pyviz_comms-{{ version }}.tar.gz
-  sha256: 427c33a5a81780db9b9e757f0675f65ea2292d9a642a2d291cfb5cae6cd46991
+  sha256: 3167df932656416c4bd711205dad47e986a3ebae1f316258ddc26f9e01513ef7
 
 build:
   number: 0
