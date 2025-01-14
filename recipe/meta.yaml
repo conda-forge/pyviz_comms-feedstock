@@ -15,7 +15,7 @@ build:
 
 requirements:
   host:
-    - python >=3.6
+    - python {{ python_min }}
     - param
     - pip
     - jupyter-packaging >=0.7.9,<0.8
@@ -25,12 +25,15 @@ requirements:
     - hatch-nodejs-version
     - hatch-jupyter-builder
   run:
-    - python >=3.6
+    - python >={{ python_min }}
     - param
   run_constrained:
     - jupyterlab >=4.0,<5
 
 test:
+  requires:
+    - param
+    - python {{ python_min }}
   imports:
     - pyviz_comms
 
