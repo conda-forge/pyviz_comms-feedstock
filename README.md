@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-pyviz_comms-green.svg)](https://anaconda.org/conda-forge/pyviz_comms) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyviz_comms.svg)](https://anaconda.org/conda-forge/pyviz_comms) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pyviz_comms.svg)](https://anaconda.org/conda-forge/pyviz_comms) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pyviz_comms.svg)](https://anaconda.org/conda-forge/pyviz_comms) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pyviz__comms-green.svg)](https://anaconda.org/conda-forge/pyviz_comms) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyviz_comms.svg)](https://anaconda.org/conda-forge/pyviz_comms) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pyviz_comms.svg)](https://anaconda.org/conda-forge/pyviz_comms) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pyviz_comms.svg)](https://anaconda.org/conda-forge/pyviz_comms) |
 
 Installing pyviz_comms
 ======================
